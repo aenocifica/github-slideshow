@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-yeehaw
+**death is not the end**
 Use the left arrow to go back!
